@@ -1,7 +1,5 @@
 body{
     font-family: 'Tangerine', cursive;
-    font-family: 'Parisienne',cursive;
-    font-family: 'Mea Culpa', cursive;
     font-size: 1.5em;
     min-width:100%;
     min-height:100%;
@@ -23,4 +21,12 @@ body{
   .row{
     padding-top:5px;
     
+  }
+
+  .hydrangea-pic{
+    width: 150px;
+    position: relative;
+    bottom: -20;
+    left: 5%;
+
   }
