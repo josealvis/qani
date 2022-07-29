@@ -1,0 +1,26 @@
+body{
+    font-family: 'Tangerine', cursive;
+    font-family: 'Parisienne',cursive;
+    font-family: 'Mea Culpa', cursive;
+    font-size: 1.5em;
+    min-width:100%;
+    min-height:100%;
+    margin:0;
+    padding:0;
+    color:#261704;
+    background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcHgxMDI1OTE1LWltYWdlLWpvYjY1NF8xLWwwdWJ1NTV3LmpwZw.jpg"
+   );
+  }
+  
+  
+  .container{
+    display: flex;
+    padding:20px;
+     flex-direction: column;
+      align-items: center;
+  }
+  
+  .row{
+    padding-top:5px;
+    
+  }
